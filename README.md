@@ -1,6 +1,8 @@
 # README
 
-A sample set of information pages about London made using Ruby on Rails to test static web pages
+A sample set of information pages about London made using Ruby on Rails to test static web pages.
+
+A production version can be seen here: https://secret-caverns-78302.herokuapp.com/home
 
 ## Getting started
 
